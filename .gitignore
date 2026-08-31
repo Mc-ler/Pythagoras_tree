@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+clone_folder/
+Pythagoras_tree_AI_assisted/
 .Python
 build/
 develop-eggs/
